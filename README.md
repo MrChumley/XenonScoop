@@ -9,3 +9,5 @@ REQUIRES ModuleManager to work.  http://forum.kerbalspaceprogram.com/index.php?/
 
 
 Enjoy
+
+https://github.com/MrChumley/XenonScoop
